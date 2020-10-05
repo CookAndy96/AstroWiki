@@ -17,7 +17,7 @@ In addition to helping new PhD students, this wiki has a couple of other functio
 
 The first 3 are fairly self explanitory, but the 4th requires a bit of expanding. Most astronomers are fantastic code-heads. We can see a problem, spot a route to its solution, and then solve it with code. We do this day in and day out. After a PhD, even with no prior Python experience, just by exposure, most Astro PhD students are considered "expert level" coders. Even if you think you are not at that stage by the end of your PhD, you probably are. 
 
-What astronomers are not, are "good programmers". Frankly, most of us are **AWFUL** programmers. And it's not really our fault. Most of what we as a community do is self-taught scripting. We write one function to make an image here. Another to quickly fit something there. Simulationists do a lot better but best coding practices are few and far between in astro. And while we can learn how to properly use classes, and to use style guides, and to not reuse code (there will be a **LOT** of code resue in this wiki!), it is harder for us to get experience with proper collaborative coding projects, and with utilising GitHub properly. 
+What astronomers are not, are "good programmers". Frankly, most of us are **AWFUL** programmers. And it's not really our fault. Most of what we as a community do is self-taught scripting. We write one script to make an image here, and then never use it again. Another to quickly fit something there. Simulationists do a lot better but best coding practices are few and far between in astro. And while we can learn how to properly use classes, and to use style guides, and to not reuse code (there will be a **LOT** of code resue in this wiki!), it is harder for us to get experience with proper collaborative coding projects, and with utilising GitHub properly. 
 
 So, I strongly encourage anyone who wants to contribute to this project to skip to the end of this document and see how to do so. It may differ from what you have done before, but it will be a hugely helpful habit to get into. 
 
@@ -37,3 +37,5 @@ So, if you want to contribute, here is what you should do:
 6. From here, the easiest thing to do is **PUSH** the new branch to your forked GitHub repository, then use the **PULL REQUEST** button. 
 
 Each step should be fairly easy to follow. Once the last step is complete, it will open a Pull Request and we can chat about it and it can be merged with the master branch once it has been tested. And **THAT** is how GitHub is supposed to work (apprently). 
+
+A final word, Jupyter Notebooks is not the best place for coding, but it is great for tutorials, please use it. Also, we should try to use Python 3 rather than Python 2. Most of the old scripts still work in Python 3 with only minor editing, and it will help those across multiple institutes. 
