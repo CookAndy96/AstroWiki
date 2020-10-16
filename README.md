@@ -5,10 +5,10 @@ This wiki, or rather code repository and resource list, is designed to help new 
 ## Contents
 
 - [Working With Fits Files](WorkingWithFitsFiles/WORKINGWITHFITSFILES.md)
-..[Opening and Exploring FITS Files Example]('./WorkingWithFitsFiles/Opening%20and%20Exploring%20FITS%20Files.ipynb')
-- [Astronomical Image Plotting Examples]('./AstroImagePlotting/ASTROIMAGEPLOTTING.md')
-..[Plotting Astronimical Images Without Coordinates]('./AstroImagePlotting/Plotting%20Astronomical%20Images%20Without%20Coordiantes.ipynb')
-..[Plotting Astronimical Images With Real Coordinates (Using WCSAxes)]('./AstroImagePlotting/Plotting%20Astronomical%20Images%20With%20Real%20Coordiantes%20(Using%20WCSAxes).ipynb')
+* [Opening and Exploring FITS Files Example](./WorkingWithFitsFiles/Opening%20and%20Exploring%20FITS%20Files.ipynb)
+- [Astronomical Image Plotting Examples](./AstroImagePlotting/ASTROIMAGEPLOTTING.md)
+* [Plotting Astronimical Images Without Coordinates](./AstroImagePlotting/Plotting%20Astronomical%20Images%20Without%20Coordiantes.ipynb)
+* [Plotting Astronimical Images With Real Coordinates (Using WCSAxes)](./AstroImagePlotting/Plotting%20Astronomical%20Images%20With%20Real%20Coordiantes%20(Using%20WCSAxes).ipynb)
 
 ## What this wiki is for
 
