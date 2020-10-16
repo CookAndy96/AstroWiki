@@ -3,9 +3,14 @@
 This wiki, or rather code repository and resource list, is designed to help new PhD students get familiar with typical practices in the astronomy community. I, for one, started my PhD with no Python experience, and very little coding experience in general. I had no knowledge of how a FITS file was put together, or how to fit a Gaussian to an emission line, or how to model more complex things. That information is scattered around the internet. Sometimes it is easy to find. Sometimes it is well documented. Sometimes it isn't either of those things. This wiki will present a number of useful practice scripts, examples, and tutorials, as well as provide links to resources and other helpful bits of information. But that is not all this is for. Take a look below the contents list to see what else this wiki is doing for the astro community.
 
 ## Contents
-
-There is nothing here yet. There will be links to different documents with different bits of information. Just hang on!
-
+---
+- [Working With Fits Files](./WorkingWithFitsFiles/WORKINGWITHFITSFILES.md)
+- [Opening and Exploring FITS Files Example](./WorkingWithFitsFiles/Opening%20and%20Exploring%20FITS%20Files.ipynb)
+---
+- [Astronomical Image Plotting Examples](./AstroImagePlotting/ASTROIMAGEPLOTTING.md)
+- [Plotting Astronimical Images Without Coordinates](./AstroImagePlotting/Plotting%20Astronomical%20Images%20Without%20Coordiantes.ipynb)
+- [Plotting Astronimical Images With Real Coordinates (Using WCSAxes)](./AstroImagePlotting/Plotting%20Astronomical%20Images%20With%20Real%20Coordiantes%20(Using%20WCSAxes).ipynb)
+---
 ## What this wiki is for
 
 In addition to helping new PhD students, this wiki has a couple of other functions:
